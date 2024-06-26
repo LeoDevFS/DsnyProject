@@ -1,33 +1,36 @@
+
+
+
 const villainous =[
     {
         id:1,
-        image:'',
+        image:'pirate.jpg',
         name:'Hook' ,
         set: '',
     },
     {
         id:2,
-        image:'',
+        image:'muslim.jpg',
         name:'Jafar' ,
     },
     {
         id:3,
-        image:'',
+        image:'malala.jpg',
         name:'Maleficient' ,
     },
     {
         id:4,
-        image:'',
+        image:'jhon.jpg',
         name:'Prince John' ,
     },
     {
         id:5,
-        image:'',
+        image:'Qoh.jpg',
         name:'Queen of Hearts' ,
     },
     {
         id:6,
-        image:'',
+        image:'Ursi',
         name:'Ursula' ,
     },
     {
@@ -44,7 +47,7 @@ const villainous =[
     },
     {
         id:9,
-        image:'',
+        image:'inframundo.jpg',
         name:'Hades' ,
         set:'Wicked To The Core'
     },
@@ -68,7 +71,7 @@ const villainous =[
     },
     {
         id:13,
-        image:'',
+        image:'dogPartner.jpg',
         name:'Cruella De Vil' ,
         set:'Perfectly Wretched'
     },
@@ -86,7 +89,7 @@ const villainous =[
     },
     {
         id:16,
-        image:'',
+        image:'soyGuapoSoyeHermoso.jpg',
         name:'Gaston' ,
         set:'Despicable Plots'
     },
@@ -99,7 +102,7 @@ const villainous =[
     },
     {
         id:18,
-        image:'',
+        image:'tremenda.jpg',
         name:'Lady Tremaine' ,
         set:'Despicable Plots'
     },
@@ -123,7 +126,7 @@ const villainous =[
     },
     {
         id:22,
-        image:'',
+        image:'elSaco.jpg',
         name:'Oogie Boogie' ,
         set: 'Filled With Fright'
     },
