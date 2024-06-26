@@ -20,6 +20,7 @@ function VillanousRandomSelector() {
       {selectedVillain && (
         <div key={selectedVillain.id}>
           <h3>{selectedVillain.name}</h3>
+          <img src={selectedVillain.image} alt={selectedVillain.name} />
         </div>
       )}
     </>
